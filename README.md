@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferrdzt
 - 👀 I’m interested in human behavior and neuroscience
-- 🌱 I’m currently learning machine learning and im persuing and MBA
+- 🌱 I’m currently learning machine learning and I'm persuing and MBA
 - 💞️ I’m looking to collaborate on data analytics projects, especially those focused on consumers behavior
 - 📫 How to reach me= email:fernandarodriguez281099@gmail.com and instagram: ferrdzt
 
