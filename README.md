@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ferrdzt
-- 👀 I’m interested in human behavior and neuroscience
-- 🌱 I’m currently learning machine learning and I'm persuing and MBA
-- 💞️ I’m looking to collaborate on data analytics projects, especially those focused on consumers behavior
+- MBA in Business Analytics with a background in Psychology. Interested in analyzing data to understand customer behavior and support decision-making. Sharing projects on data analysis and visualization.
 - 📫 How to reach me= email:fernandarodriguez281099@gmail.com and instagram: ferrdzt
 
 <!---
